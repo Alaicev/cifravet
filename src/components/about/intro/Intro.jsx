@@ -9,7 +9,8 @@ function About(props) {
         <div className="about__container">
           <h1 className="about__title">
           ВетЦифра - <br />
-          текст о платформе
+          <span className='about__sub-title'>это современная цифровая образовательная платформа, которая объединяет курсы 
+          по различным аспектам ветеринарной работы.</span>
           </h1>
           <NavLink to="course" className="button about__button">Смотреть курсы</NavLink>
         </div>
