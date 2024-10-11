@@ -1,0 +1,33 @@
+.couse__container {
+  padding: 60px 0;
+}
+
+.course__title {
+  padding: 0 0 60px  0;
+}
+
+.course__items {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.course__item {
+  padding: 300px 50px 50px;
+  border-radius: 10px;
+}
+
+.course__item .course__title {
+  color: white;
+  padding: 0;
+}
+
+.course__content{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.course__arroy {
+  width: 100px;
+}

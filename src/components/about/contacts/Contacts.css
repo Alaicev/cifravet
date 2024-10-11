@@ -1,0 +1,21 @@
+.contacts__container {
+  margin: 60px 0;
+  background-color: white;
+  box-shadow: 0 4px 4px 0 #00000040;
+  border-radius: 20px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.contacts__title {
+  color: #3586FF;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.contacts__text {
+  color: #3586FF;
+  text-decoration: underline;
+}
